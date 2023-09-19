@@ -19,4 +19,5 @@
 .app__header_info {
   margin: 2rem 0;
   text-transform: none;
+  text-align: justify;
 }

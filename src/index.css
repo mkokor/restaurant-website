@@ -12,9 +12,9 @@
   --color-black-transparent: rgba(12, 12, 12, 0.8);
 }
 
-body {
+#root {
   background-color: var(--color-black);
-  margin-top: 30px;
+  padding-top: 30px;
 }
 
 * {
