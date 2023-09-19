@@ -1,11 +1,30 @@
 import React from "react";
+import {
+  AboutUs,
+  Chef,
+  FindUs,
+  Footer,
+  Gallery,
+  Header,
+  Intro,
+  Laurels,
+  SpecialMenu,
+} from "./container/index";
 
-function App() {
+const App = () => {
   return (
     <div>
-      <h1>Hello, World!</h1>
+      <Header />
+      <AboutUs />
+      <SpecialMenu />
+      <Chef />
+      <Intro />
+      <Laurels />
+      <Gallery />
+      <FindUs />
+      <Footer />
     </div>
   );
-}
+};
 
 export default App;
