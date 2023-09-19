@@ -1,7 +1,7 @@
 import React from "react";
 
 import "./App.css";
-import { Navbar } from "./components/index";
+import { Navbar } from "./components";
 import {
   AboutUs,
   Chef,
@@ -12,7 +12,7 @@ import {
   Intro,
   Laurels,
   SpecialMenu,
-} from "./container/index";
+} from "./container";
 
 const App = () => {
   return (

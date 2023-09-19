@@ -9,6 +9,12 @@
   --color-crimson: #f5efdb;
   --color-grey: #aaaaaa;
   --color-white: #ffffff;
+  --color-black-transparent: rgba(12, 12, 12, 0.8);
+}
+
+body {
+  background-color: var(--color-black);
+  margin-top: 30px;
 }
 
 * {

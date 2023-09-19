@@ -3,7 +3,7 @@ import { GiHamburgerMenu } from "react-icons/gi";
 import { MdOutlineRestaurantMenu } from "react-icons/md";
 
 import "./Navbar.css";
-import { images } from "../../constants/index";
+import { images } from "../../constants";
 
 const Navbar = () => {
   const [toggleMenu, setToggleMenu] = useState(false);
@@ -19,7 +19,7 @@ const Navbar = () => {
   return (
     <nav className="app__navbar">
       <div className="app__navbar-logo">
-        <img src={images.gericht} alt="LOGO"></img>
+        <img src={images.gericht} alt="logo"></img>
       </div>
       <ul className="app__navbar-links">
         <li className="p__opensans">
