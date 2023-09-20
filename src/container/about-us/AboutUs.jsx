@@ -16,12 +16,7 @@ const AboutUs = () => {
         <div className="app__about-us-content_about">
           <h1 className="head-text__cormorant">About Us</h1>
           <img src={images.spoon} alt="spoon" />
-          <p
-            className="p__opensans"
-            style={{
-              textTransform: "none",
-            }}
-          >
+          <p className="p__opensans">
             Our restaurant is where taste meets elegance, creating a unique
             experience for all lovers of good food. Located in the heart of the
             city, we proudly showcase our passion for gastronomy for years.
