@@ -8,7 +8,7 @@
   align-items: center;
 }
 
-.app__bg {
+.app__background {
   background: url("./assets/images/background.png");
   background-position: center;
   background-size: cover;
@@ -38,7 +38,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-left: 3rem;
+  margin-left: 2em;
 }
 
 .app__wrapper_image-reverse {
@@ -86,7 +86,7 @@
   font-size: 16px;
 }
 
-.headtext__cormorant {
+.head-text__cormorant {
   font-family: var(--font-base);
   color: var(--color-golden);
   font-size: 64px;
@@ -111,7 +111,7 @@
     line-height: 50px;
   }
 
-  .headtext__cormorant {
+  .head-text__cormorant {
     font-size: 150px;
     line-height: 210px;
   }
@@ -168,7 +168,7 @@
     font-size: 19px;
   }
 
-  .headtext__cormorant {
+  .head-text__cormorant {
     font-size: 45px;
     line-height: 70px;
   }
