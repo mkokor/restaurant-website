@@ -5,6 +5,9 @@ import welcome from "../assets/images/welcome.png";
 import logoLetter from "../assets/images/logo-letter.png";
 import knife from "../assets/images/knife.png";
 import menu from "../assets/images/menu.png";
+import chef from "../assets/images/chef.png";
+import quote from "../assets/images/quote.png";
+import sign from "../assets/images/sign.png";
 
 export default {
   gericht,
@@ -14,4 +17,7 @@ export default {
   logoLetter,
   knife,
   menu,
+  chef,
+  quote,
+  sign,
 };
