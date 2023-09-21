@@ -4,6 +4,7 @@ import spoon from "../assets/images/spoon.svg";
 import welcome from "../assets/images/welcome.png";
 import logoLetter from "../assets/images/logo-letter.png";
 import knife from "../assets/images/knife.png";
+import menu from "../assets/images/menu.png";
 
 export default {
   gericht,
@@ -12,4 +13,5 @@ export default {
   welcome,
   logoLetter,
   knife,
+  menu,
 };

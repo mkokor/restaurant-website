@@ -6,7 +6,7 @@ import Gallery from "./gallery/Gallery";
 import Header from "./header/Header";
 import Intro from "./intro/Intro";
 import Laurels from "./laurels/Laurels";
-import SpecialMenu from "./menu/SpecialMenu";
+import SpecialMenu from "./special-menu/SpecialMenu";
 
 export {
   AboutUs,
