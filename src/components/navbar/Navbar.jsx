@@ -43,8 +43,8 @@ const Navbar = () => {
           Subscribe
         </a>
         <div />
-        <a href="/" className="p__opensans">
-          Book Table
+        <a href="#about-chef" className="p__opensans">
+          Chef's Word
         </a>
       </div>
       <div className="app__navbar-smallscreen">

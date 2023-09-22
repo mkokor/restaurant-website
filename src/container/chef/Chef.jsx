@@ -6,7 +6,10 @@ import { SubHeading } from "../../components";
 
 const Chef = () => {
   return (
-    <div className="app__background app__wrapper section__padding">
+    <div
+      className="app__background app__wrapper section__padding"
+      id="about-chef"
+    >
       <div className="app__wrapper_image app__wrapper_image-reverse">
         <img src={images.chef} alt="chef" />
       </div>
