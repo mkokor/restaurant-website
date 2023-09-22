@@ -1,0 +1,7 @@
+.app__laurels_awards {
+  display: flex;
+  margin-top: 3rem;
+  justify-content: flex-end;
+  align-items: center;
+  flex-wrap: wrap;
+}

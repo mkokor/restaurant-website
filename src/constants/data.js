@@ -1,3 +1,5 @@
+import images from "./images";
+
 const wines = [
   {
     title: "Chapel Hill Shiraz",
@@ -54,6 +56,30 @@ const cocktails = [
   },
 ];
 
-const awards = [];
+const awards = [
+  {
+    imageUrl: images.award2,
+    title: "Bib Gourmond",
+    subTitle: "Bib Gourmand, where exceptional flavor meets everyday delight.",
+  },
+  {
+    imageUrl: images.award1,
+    title: "Rising Star",
+    subTitle:
+      "Like a meteor in the night sky, the 'Rising Star' shines with boundless potential.",
+  },
+  {
+    imageUrl: images.award5,
+    title: "AA Hospitality",
+    subTitle:
+      "AA Hospitality, setting the gold standard in the world of excellence.",
+  },
+  {
+    imageUrl: images.award3,
+    title: "Outstanding Chef",
+    subTitle:
+      "The preeminent chef in this realm, crafting culinary art with every bite.",
+  },
+];
 
 export default { wines, cocktails, awards };
