@@ -14,6 +14,10 @@ import award3 from "../assets/images/award-3.png";
 import award5 from "../assets/images/award-5.png";
 import logo from "../assets/images/logo.png";
 import laurels from "../assets/images/laurels.png";
+import gallery1 from "../assets/images/gallery-1.png";
+import gallery2 from "../assets/images/gallery-2.png";
+import gallery3 from "../assets/images/gallery-3.png";
+import gallery4 from "../assets/images/gallery-4.png";
 
 export default {
   gericht,
@@ -32,4 +36,8 @@ export default {
   award5,
   logo,
   laurels,
+  gallery1,
+  gallery2,
+  gallery3,
+  gallery4,
 };
