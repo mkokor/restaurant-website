@@ -1,5 +1,3 @@
-import React from "react";
-
 import "./Newsletter.css";
 import SubHeading from "../sub-heading/SubHeading";
 

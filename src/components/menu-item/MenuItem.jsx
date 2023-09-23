@@ -1,5 +1,3 @@
-import React from "react";
-
 import "./MenuItem.css";
 
 const MenuItem = ({ title, price, tags }) => {
@@ -18,7 +16,7 @@ const MenuItem = ({ title, price, tags }) => {
           </div>
         </div>
       </div>
-      <div className="app__menu-utem-sub">
+      <div className="app__menu-item-sub">
         <p className="p__opensans" style={{ color: "#AAA" }}>
           {tags}
         </p>

@@ -1,5 +1,3 @@
-import React from "react";
-
 import "./AwardCard.css";
 
 const AwardCard = ({ award: { imageUrl, title, subTitle } }) => {

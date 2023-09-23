@@ -1,5 +1,3 @@
-import React from "react";
-
 import "./Laurels.css";
 import { images, data } from "../../constants";
 import { SubHeading, AwardCard } from "../../components";

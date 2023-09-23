@@ -16,7 +16,7 @@
   margin-top: 0.2rem;
 }
 
-.app__menuitem-name {
+.app__menu-item-name {
   flex: 1;
 }
 
@@ -38,4 +38,10 @@
   flex-direction: row;
   align-items: center;
   justify-content: flex-end;
+}
+
+@media screen and (max-width: 350px) {
+  .app__menu-item-dash {
+    width: 10px;
+  }
 }
