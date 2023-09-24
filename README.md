@@ -1,6 +1,6 @@
 # About Project
 <p align="justify"> 
-This repository contains source code for restaurant website. It is built with React.js library and inspired by <a href="https://create-react-app.dev/">amazing Figma design</a>.
+This repository contains source code for restaurant website. It is built with React.js library and inspired by <a href="https://ui8.net/iqonicdesign/products/gericht-restaurant-website-ui-in-figma">amazing Figma design</a>.
 </p>
 
 # Demonstration
