@@ -52,7 +52,7 @@ This repository contains source code for restaurant website. It is built with Re
 
 # Getting Started
 <p align="justify">
-Follow the instructions bellow to get local copy up and running.
+Follow the instructions below to get local copy up and running.
 </p>
 
 ## Installation
@@ -67,7 +67,7 @@ npm install
 
 ## Execution
 <p align="justify">
-Run command bellow to start the application.
+Run command below to start the application.
 </p>
 
 ```bash
