@@ -7,7 +7,7 @@ This repository contains source code for restaurant website. It is built with Re
 # Demonstration
 <div align="center">
 
-  https://github.com/mkokor/restaurant-website/assets/126569077/78ea29b8-957a-4d3b-bf9f-ed2509621c3e
+https://github.com/mkokor/restaurant-website/assets/126569077/78ea29b8-957a-4d3b-bf9f-ed2509621c3e
 
 </div>
 
@@ -67,7 +67,7 @@ Follow the instructions below to get local copy up and running.
 ```bash
 git clone https://github.com/mkokor/restaurant-website.git
 ```
-3. Install NPM packages
+2. Install NPM packages
 ```bash
 npm install
 ```
