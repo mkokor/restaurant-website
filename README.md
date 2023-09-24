@@ -3,11 +3,17 @@
 This repository contains source code for restaurant website. It is built with React.js library and inspired by <a href="https://ui8.net/iqonicdesign/products/gericht-restaurant-website-ui-in-figma">amazing Figma design</a>.
 </p>
 
+
 # Demonstration
+<div align="center">
+
+  https://github.com/mkokor/restaurant-website/assets/126569077/78ea29b8-957a-4d3b-bf9f-ed2509621c3e
+
+</div>
 
 ## Home Section
 <div align="center">
-  <img src="./demonstration/screenshots/home.png" alt="home" />
+   <img src="./demonstration/screenshots/home.png" alt="home" />
 </div>
 
 ## About Us Section
@@ -49,6 +55,7 @@ This repository contains source code for restaurant website. It is built with Re
 <div align="center">
   <img src="./demonstration/screenshots/footer.png" alt="footer" />
 </div>
+
 
 # Getting Started
 <p align="justify">
