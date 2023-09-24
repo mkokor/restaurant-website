@@ -49,3 +49,31 @@ This repository contains source code for restaurant website. It is built with Re
 <div align="center">
   <img src="./demonstration/screenshots/footer.png" alt="footer" />
 </div>
+
+# Getting Started
+<p align="justify">
+Follow the instructions bellow to get local copy up and running.
+</p>
+
+## Installation
+1. Clone the repository
+```bash
+git clone https://github.com/mkokor/restaurant-website.git
+```
+3. Install NPM packages
+```bash
+npm install
+```
+
+## Execution
+<p align="justify">
+Run command bellow to start the application.
+</p>
+
+```bash
+npm start
+```
+
+<p align="justify">
+Website home page can be accessed on <a href="http://localhost:3000/">http://localhost:3000/</a>.
+</p>
